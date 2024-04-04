@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DHIRAJ KUMAR SINGH</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/fetch/w300-preview/64/649bac228697cb7e9137f1996675e022.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/7a/26/24/7a2624c6762fa4775852ef6f1d5af1fb.gif">
 
 <p align="left"> <a href="https://twitter.com/_dhiraj_singh_" target="blank"><img src="https://img.shields.io/twitter/follow/_dhiraj_singh_?logo=twitter&style=for-the-badge" alt="_dhiraj_singh_" /></a> </p>
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/DhirajS67293160?t=ZhoXG_wRqaO7fXLJ6MR9BQ&s=09" target="blank"><img align="center" src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="_dhiraj_singh_" height="30" width="40" /></a>
+<a href="https://x.com/DhirajS67293160?t=ZhoXG_wRqaO7fXLJ6MR9BQ&s=09" target="blank"><img align="center" src="https://assets-global.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="_dhiraj_singh_" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/dhiraj-kumar-singh-4043a2279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhirajkumarsingh" height="30" width="40" /></a>
 <a href="https://instagram.com/_dhirajsinghv1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dhirajsinghv1_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhirajsingh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhirajsingh99" height="30" width="40" /></a>
